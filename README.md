@@ -83,10 +83,11 @@ Route	Method	Description
 
 👨‍💻 Author
 
-[Your Name]
+[Dawar Abbas]
 Full-Stack Developer | Focused on clean UI, reliable backends, and productivity tools
-📧 your.email@example.com
+📧 meesumabbas891@gmail.com
 
 🪪 License
 
 This project is licensed under the MIT License — free for personal and commercial use.
+
